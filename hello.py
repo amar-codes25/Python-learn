@@ -6,3 +6,6 @@ print(result)
 
 result2 = add(5, 20)
 print(result2)
+
+result3 = add(10, 26)
+print(result3);
